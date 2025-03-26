@@ -20,7 +20,7 @@ Bodhi Meditation Toronto's current ticketing process is inefficient and manual, 
 
 - **Frontend**: HTML, CSS, JavaScript
 - **Backend**: Node.js, Express
-- **Database**: MySQL (or any relational database for event and customer data)
+- **Database**: MySQL 
 - **Email Notification**: SMTP, Nodemailer (for sending confirmation and cancellation emails)
 
 ## Use Cases
