@@ -35,7 +35,9 @@ Bodhi Meditation Toronto's current ticketing process is inefficient and manual, 
    - View ticket availability in real-time.
    - Send email notifications to customers.
    - Delete or remove events from the system.
-  
+
+## Approach
+
 To ensure the success of this project, several techniques were used to understand and document both the current and future state of the ticketing process. These methods helped streamline the process and enabled the creation of a more efficient and effective solution.
 
 ### 1. **Business Process Model and Notation (BPMN)**
